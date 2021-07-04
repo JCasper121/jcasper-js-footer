@@ -1,0 +1,26 @@
+{
+  "name": "jcasper-js-footer",
+  "version": "0.1.0",
+  "description": "'Generates an html footer with dynamic copyright year and organization name.'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JCasper121/jcasper-js-footer.git"
+  },
+  "keywords": [
+    "html",
+    "footer"
+  ],
+  "author": "John Casper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JCasper121/jcasper-js-footer/issues"
+  },
+  "homepage": "https://github.com/JCasper121/jcasper-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
